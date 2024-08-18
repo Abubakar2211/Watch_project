@@ -1,0 +1,65 @@
+.img img {
+    height: 100vh;
+    width: 100%;
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+    z-index: -1;
+    
+}
+ 
+ 
+.text h1 {
+    font-weight: bold; 
+    color: rgb(255, 255, 255);
+    position: relative;
+    margin: 140px auto 0 ;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+.button .btn{
+    margin:20px 10px;
+    padding:10px 50px;  
+}
+.button .b,.d{
+    background: #000;
+    color: aliceblue;
+}
+.button .a:hover{
+color: rgb(255, 255, 255);
+background: #000;
+}
+.button .b:hover {
+color: rgb(0, 0, 0);
+background: #ffffff;
+}
+.logo img{
+ height: 230px;
+ width: 230px;
+ margin: 0px 100px;
+ margin-top: -50px;
+
+}
+.login {
+    text-align: right; 
+    margin:50px 0px;
+}
+.login .c{
+    margin: 0 10px;
+    padding: 10px 30px;
+}
+.login .d{
+    margin: 0 10px;
+    padding: 10px 30px;
+    background: #000;
+    color: white;
+}
+
+.login .d:hover {
+    color: rgb(0, 0, 0);
+    background: #ffffff;
+    }
+    .login .c:hover{
+        color: rgb(255, 255, 255);
+        background: #000;
+        }
